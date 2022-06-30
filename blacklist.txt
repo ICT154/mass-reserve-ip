@@ -1,0 +1,10 @@
+cpanel.
+www.
+ns1.
+ns2.
+ns3.
+autodiscover.
+cpanelcalendars.
+cpcalendars.
+cpcontacts.
+mail.
